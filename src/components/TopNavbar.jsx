@@ -5,7 +5,7 @@ import { FaSignInAlt } from "react-icons/fa";
 
 export default function TopNavbar() {
   return (
-    <div className="bg-[#273c66]">
+    <div className="bg-[#273c66] hidden">
       <div className="max-w-7xl mx-auto px-4 lg:px-0 flex items-center justify-between">
         <div className="flex items-center gap-10">
           <div className="flex items-center gap-1">
